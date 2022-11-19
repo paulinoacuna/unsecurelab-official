@@ -5,3 +5,10 @@
     font-weight: normal;
   }
 
+  p {
+    font-size: medium;
+  }
+
+  footer p {
+    font-size: small;
+  }
