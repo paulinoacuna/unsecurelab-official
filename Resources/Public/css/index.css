@@ -4,11 +4,20 @@
     font-style: normal;
     font-weight: normal;
   }
+  @import "bootstrap";
+
+  
 
   p {
     font-size: medium;
+
   }
 
   footer p {
     font-size: small;
   }
+  .section {
+    color: antiquewhite;
+  }
+
+ 
