@@ -24,4 +24,31 @@
     font-size: medium;
   }
 
+  .product h3 {
+    font-size: large;
+    font-weight: bold;
+  }
+
+  .product p {
+    font-size: medium;
+  }
+
+  .product u {
+    font-size: smaller;
+  }
+  .product h6 {
+    font-size: medium;
+    font-weight: bold;
+  }
+
+  .product place {
+    font-size: smaller;
+  }
  
+  .product b {
+    color: #3879b1;
+  }
+
+  .product .place {
+    font-size: small;
+  }
